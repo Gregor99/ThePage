@@ -1,0 +1,42 @@
+/* 
+    Document   : custom
+    Created on : 17.1.2014, 22:21:21
+    Author     : Gregor
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body {
+    padding-top: 80px;
+    padding-left: 50px;
+    background-color: #90B3FF;
+}
+
+h1 {
+    padding-left: 10px;
+    font-family: Garamond;
+    background-color: #C6D8FF;
+}
+
+em {
+    font-family: Garamond;
+    color: #90B3FF;
+    font-weight: bold;
+}
+
+li {
+    font-family: Garamond;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+.socials {
+    padding: 10px;
+}
